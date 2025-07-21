@@ -1,4 +1,4 @@
-//snake proj
+//snake_proj
 const field = [
   "ooo------Y--AND------",
   "-----EXY--A--N---D--E",
